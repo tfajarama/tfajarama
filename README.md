@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**roastland/roastland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can find me by tap this! [![LinkedIn][3.2]][3]
 
-Here are some ideas to get you started:
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3]: https://www.linkedin.com/in/taufan-fajarama-putrawansyah-r-42288919b/
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

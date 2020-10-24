@@ -6,7 +6,7 @@
 
 📍 School of Electrical Engineering and Informatics, Institut Teknologi Bandung
 
-💻 I'm eager in learning data science and web development
+💻 I'm eager in learning data science and cloud computing
 
 📱 I also have interest in multi-platform app development using Dart and Flutter
 

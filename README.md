@@ -4,11 +4,9 @@
 
 🏫 I'm currently a first year undergraduate student
 
-📍 School of Electrical Engineering and Informatics, Institut Teknologi Bandung
+📍 at School of Electrical Engineering and Informatics, Institut Teknologi Bandung
 
-💻 I'm eager in learning Google Developers Products such as Flutter
-
-📱 I also have interest in data science and cloud computing
+💻 I'm eager to learn, practice, and contribute more
 
 You can connect with me by tap this! [![LinkedIn][3.2]][3]
 

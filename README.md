@@ -6,7 +6,7 @@
 
 📍 School of Electrical Engineering and Informatics, Institut Teknologi Bandung
 
-💻 I'm eager in learning multi-platform app development using Dart and Flutter
+💻 I'm eager in learning Google Developers Products such as Flutter
 
 📱 I also have interest in data science and cloud computing
 

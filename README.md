@@ -4,7 +4,7 @@
 
 🏫 I'm currently a first year undergraduate student at Institut Teknologi Bandung
 
-💻 I'm eager to learn, practice, and contribute more
+💻 I'm eager to learn, contribute, and explore more
 
 You can connect with me by tap this! [![LinkedIn][3.2]][3]
 

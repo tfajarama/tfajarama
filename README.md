@@ -2,9 +2,7 @@
 
 🙋‍♂️ My name is Taufan Fajarama Putrawansyah Ruslanali
 
-🏫 I'm currently a first year undergraduate student
-
-📍 at School of Electrical Engineering and Informatics, Institut Teknologi Bandung
+🏫 I'm currently a first year undergraduate student at Institut Teknologi Bandung
 
 💻 I'm eager to learn, practice, and contribute more
 

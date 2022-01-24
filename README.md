@@ -2,7 +2,7 @@
 
 🎓 Currently studying Informatics at Institut Teknologi Bandung and working on some college group project.
 
-💻 I'm passionate to learn and explore anything tech-related and I'd like to contribute in every possible way.
+💻 I'm passionate to learn and explore any opportunities and I'd like to contribute in every possible way.
 <!--
 You can connect with me by tap this! [![LinkedIn][3.2]][3]
 
